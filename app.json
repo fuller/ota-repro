@@ -1,0 +1,12 @@
+{
+  "name": "ota-repro",
+  "displayName": "ota-repro",
+  "expo": {
+    "name": "ota-repro",
+    "slug": "ota-repro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
